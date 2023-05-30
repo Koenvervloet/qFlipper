@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableDelayedExpansion
 
-set ARCH_BITS=64
+set ARCH_BITS=32
 
 set MSVC_VERSION=2019
 set "MSVC_DIR=%programfiles(x86)%\Microsoft Visual Studio\%MSVC_VERSION%"
